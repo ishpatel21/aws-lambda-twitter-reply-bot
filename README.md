@@ -4,10 +4,7 @@ This project demostrate how to use aws lambda function with spring boot to reply
 We are using Twitter4J libraby for Twitter API (https://twitter4j.org/en/index.html).
 
 
-# How to Build / Run
-This is simple spring boot project that runs locally too.
-Once cloned:
-  - convert to maven project.
+# How to Build / Run in local
   - mvn clean install
   - ./mvnw spring-boot:run 
   - Make GET Call using PostMan http://localhost:8090/twitter/reply/str
