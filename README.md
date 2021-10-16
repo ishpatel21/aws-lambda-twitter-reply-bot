@@ -15,5 +15,6 @@ Once cloned:
 
 # How to run on AWS Lambda
  1. Follow "Create Lambda Function via Management Console" in article https://www.baeldung.com/java-aws-lambda
- 2. Then, use CloudWatch to invoke function, Follow Step 2 and 3 in article https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/RunLambdaSchedule.html
+ 2. Create Api Gateway for endpoint https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-develop.html
+ 3. Then, use CloudWatch to invoke function, Follow Step 2 and 3 in article https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/RunLambdaSchedule.html
     
