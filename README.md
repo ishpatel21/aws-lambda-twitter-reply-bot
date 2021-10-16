@@ -9,8 +9,7 @@ This is simple spring boot project that runs locally too.
 Once cloned:
   - convert to maven project.
   - mvn clean install
-  - If you use Maven, run the following command in a terminal window (in the complete) directory:
-    ./mvnw spring-boot:run 
+  - ./mvnw spring-boot:run 
   - Make GET Call using PostMan http://localhost:8090/twitter/reply/str
 
 # How to run on AWS Lambda
