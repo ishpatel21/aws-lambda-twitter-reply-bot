@@ -1,7 +1,6 @@
 # AWS Lambda Twitter Reply Bot
-
-This project demostrate how to use aws lambda function with spring boot to reply "$DOGE" to Elon Musk's latest tweets.
-We are using Twitter4J libraby for Twitter API (https://twitter4j.org/en/index.html).
+  - This project demostrate how to use aws lambda function with spring boot to reply "$DOGE" to Elon Musk's latest tweets.
+  - We are using Twitter4J libraby for Twitter API (https://twitter4j.org/en/index.html).
 
 
 # How to Build / Run in local
