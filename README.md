@@ -1,5 +1,5 @@
 # Twitter Replying Bot
-  - This project showcases the integration of AWS Lambda function with Spring Boot to automatically respond with "$DOGE" (Dogecoin) to Elon Musk's latest tweets, with the aim of positively influencing Dogecoin's market performance. Twitter API integration is facilitated through the Twitter4J library (https://twitter4j.org/en/index.html).
+  - This project showcases the integration of AWS Lambda function with Spring Boot to automatically respond with "$DOGE" (Dogecoin) to Elon Musk's latest tweets, with the aim of positively influencing Dogecoin's market performance. Twitter API integration is facilitated through the Twitter4J library (https://twitter4j.org/en/index.html). 
 
 
 # How to Build / Run in local
