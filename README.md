@@ -1,4 +1,4 @@
-# AWS Lambda Twitter Auto Reply Bot
+# Twitter Replying Bot
   - This project demostrate how to use aws lambda function with spring boot to reply "$DOGE"(Dogecoin) to Elon Musk's latest tweets. Hopefully Dogecoin will go up.
   - We are using Twitter4J libraby for Twitter API (https://twitter4j.org/en/index.html).
 
